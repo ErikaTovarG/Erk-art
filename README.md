@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Erk-art
+- 👀 I’m interested in Computer network and programming. 
+- 🌱 I’m currently learning Java and Python. 
+- 📫 How to reach me in [linkedIn](https://www.linkedin.com/in/erikatovargarzon/)
